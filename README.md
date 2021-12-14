@@ -12,6 +12,7 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 ### Pre-requisitos 📋
 
 Necesitas tener instalado Nodejs junto a NPM
+Necesitas tener instalado SQL-SERVER en tu maquina
 instalar de manera global NODEMON
 
 `npm i -g nodemon `
