@@ -47,8 +47,8 @@ puedes hacer un despliegue en la nube de azure o en aws
 
 
 
-* [NodeJS](https://nodejs.org/es/) - El framework web usado
-* [ExpressJs](https://expressjs.com/es/) - Manejador de dependencias
+* [NodeJS](https://nodejs.org/es/) 
+* [ExpressJs](https://expressjs.com/es/)
 
 
 
