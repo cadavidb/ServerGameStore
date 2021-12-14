@@ -4,16 +4,16 @@ Este servidor le sirve a un eccomerce de cualquier tipo
 
 ## Comenzando 🚀
 
-https://github.com/cadavidb/ServerGameStore.git_
+https://github.com/cadavidb/ServerGameStore.git
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
 
 ### Pre-requisitos 📋
 
-Necesitas tener instalado Nodejs junto a NPM
-Necesitas tener instalado SQL-SERVER en tu maquina
-instalar de manera global NODEMON
+* Necesitas tener instalado Nodejs junto a NPM
+* Necesitas tener instalado SQL-SERVER en tu maquina
+* instalar de manera global NODEMON
 
 `npm i -g nodemon `
 
